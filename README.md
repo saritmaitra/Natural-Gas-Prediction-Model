@@ -1,0 +1,4 @@
+# Natural-Gas-Prediction-Model
+Back-testing which is in the form of performance testing is one of the most complicated tasks involved in an algorithmic trading research system. There are several things such as software latencies, network latencies, slippage, fees etc. are involved to build an algorithmic trading framework. The basic idea is to that given historical data, what would be the performance of the trading strategy.
+Here, we will explore as how we can use machine learning algorithm to predict future direction and define a strategy for trading. Furthermore, once the strategy is defined, we will do performance testing to find out the strength of defined strategy.
+We have used natural gas daily data originated from Energy Information Administration (EIA) of the U.S. Federal Statistical System.
